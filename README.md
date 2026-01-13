@@ -147,11 +147,3 @@ This project is for **learning and educational purposes**.
 
 ---
 
-If you want, next I can:
-
-* Make this README **more advanced**
-* Add **screenshots**
-* Write **deployment steps**
-* Improve **UI/UX**
-
-Just say 👍
